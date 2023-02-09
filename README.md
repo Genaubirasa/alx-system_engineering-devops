@@ -1,1 +1,2 @@
-devops program
+create bash shell
+shell perrmission
